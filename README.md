@@ -6,8 +6,8 @@ This repository was inspired by and follows along with Andrej Karpathy's [Neural
 
 Models implemented:
 
-- Bigram
-- Multi-Layer Perceptron (MLP)
+- [Bigram and Trigram](bigram.ipynb) - Character-Level Language Model 
+- [Multi-Layer Perceptron (MLP)](mpl.ipynb) - Character-Level Language model
 - Recurrent Neural Network (RNN)
 - Gated Recurrent Unit (GRU)
 - Transformer
