@@ -8,9 +8,7 @@ Models implemented:
 
 - [Bigram and Trigram](bigram.ipynb) - Character-Level Language Model 
 - [Multi-Layer Perceptron (MLP)](mlp.ipynb) - Character-Level Language model
-- [Recurrent Neural Network (RNN)](rnn.ipynb) - Character-Level Language model
-- Gated Recurrent Unit (GRU)
-- Transformer
+- [Recurrent Neural Network (RNN)](rnn.ipynb) - Character-Level Language model (kind of like WaveNet)
 
 Other implementations:
 - [Manual Backpropogation](citynames_manual_backprop.ipynb)
